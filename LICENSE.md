@@ -1,4 +1,4 @@
-# 
+# rare bitmex trading bot scripts is the best bitmex trading bot scripts with perpetual-trading and grid-trading. Safe, reliable, and optimized for CEX, DEX, and algorithmic trading
 
 
 
